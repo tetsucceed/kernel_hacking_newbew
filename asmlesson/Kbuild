@@ -1,0 +1,3 @@
+# procs_info Kbuild
+
+obj-m	+= k_syscall.o
